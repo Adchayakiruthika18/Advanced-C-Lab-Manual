@@ -93,7 +93,8 @@ int main() {
 
 Output:
 
-![Screenshot 2025-04-25 153435](https://github.com/user-attachments/assets/2b241a16-942f-48f6-8192-46d608b4388f)
+![c](https://github.com/user-attachments/assets/2d82edaf-a87f-4a20-9948-1a525def064b)
+
 
 Result:
 Thus, the program is verified successfully
